@@ -3,7 +3,7 @@ Official implement of [Zero-Shot Low-Light Image Enhancement via Joint Frequency
 </div>
 
 ## Overview
-![avatar](Overview.PNG)
+![](Overview.png)
 
 ## Prerequisites
 - Linux
