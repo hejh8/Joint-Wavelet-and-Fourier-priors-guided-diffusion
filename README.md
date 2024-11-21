@@ -2,6 +2,9 @@
 Official implement of [Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion]()
 </div>
 
+## Overview
+![avatar](Overview.PNG)
+
 ## Prerequisites
 - Linux
 - Python 3.8
@@ -22,7 +25,7 @@ wget https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffu
  python main.py 
 ```
 ## TODO
-We will open the denoising version later.
+We will open the denoising version later. Please contact us if you need our test results.
 - [x] basic version
 - [ ] denoising version
 ## Citation
