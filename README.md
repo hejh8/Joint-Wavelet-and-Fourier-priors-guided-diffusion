@@ -31,13 +31,10 @@ We will open the denoising version later. Please contact us if you need our test
 ## Citation
 If you find this code useful for your research, please use the following BibTeX entry.
 ```
-@misc{he2024zeroshotlowlightimageenhancement,
-      title={Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion}, 
-      author={Jinhong He and Shivakumara Palaiahnakote and Aoxiang Ning and Minglong Xue},
-      year={2024},
-      eprint={2411.13961},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.13961}, 
+@article{he2024zero,
+  title={Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion},
+  author={He, Jinhong and Palaiahnakote, Shivakumara and Ning, Aoxiang and Xue, Minglong},
+  journal={arXiv preprint arXiv:2411.13961},
+  year={2024}
 }
 ```
