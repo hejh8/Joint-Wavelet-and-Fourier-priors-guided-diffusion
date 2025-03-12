@@ -1,5 +1,5 @@
 # Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion
-Official implement of [Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion](https://arxiv.org/abs/2411.13961)
+Official implement of [Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion]([https://arxiv.org/abs/2411.13961](https://ieeexplore.ieee.org/abstract/document/10909219))
 </div>
 
 ## Overview
@@ -31,10 +31,12 @@ We will open the denoising version later. Please contact us if you need our test
 ## Citation
 If you find this code useful for your research, please use the following BibTeX entry.
 ```
-@article{he2024zero,
+@article{he2025zero,
   title={Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion},
   author={He, Jinhong and Palaiahnakote, Shivakumara and Ning, Aoxiang and Xue, Minglong},
-  journal={arXiv preprint arXiv:2411.13961},
-  year={2024}
+  journal={IEEE Signal Processing Letters},
+  year={2025},
+  publisher={IEEE}
 }
+
 ```
